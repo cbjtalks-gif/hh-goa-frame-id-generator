@@ -27,3 +27,33 @@ npm run dev
 - TypeScript
 - React
 - Tailwind CSS
+
+
+# Hacker House Goa 2026 - Frame & Builder ID Generator 🚀
+
+An official-grade web application built for the **Hacker House Goa 2026** Task #1 selection process. Designed for speed, responsiveness, and zero-friction user experience.
+
+🔗 **Live App:** [https://hh-goa-idgen.lovable.app/](https://hh-goa-idgen.lovable.app/)
+
+---
+
+## ✨ Key Features
+- **Dual Output Formats:**
+  - **PFP Frame / Overlay:** 1:1 Square profile picture overlay with official HH Goa 2026 branding.
+  - **Builder ID Pass:** Digital event badge with custom name, role, auto-generated builder title, and dynamic badges.
+- **Interactive Canvas Controls:** Live Zoom, Pan (X/Y), Rotation, and re-centering adjustments.
+- **Customization Suite:**
+  - Multiple Card Themes (*Sunset Goa, Cyberpunk Emerald, Neon Midnight*).
+  - Dynamic Badges & Stickers (*AI Builder, Security Specialist, Open Source, etc.*).
+  - Portfolio/GitHub URL integration with dynamic QR Code generation on the pass.
+- **Instant Export & Social Sharing:**
+  - High-Definition PNG export directly from the client browser.
+  - 1-Click Twitter (X) sharing pre-filled with `#FrameInGoa` hashtag and `@247PMSTUDIO` tag.
+
+---
+
+## 🛠️ Tech Stack
+- **Framework:** React.js / Vite
+- **Styling:** Tailwind CSS (Custom Retro-Tropical Tech Theme)
+- **Image Engine:** HTML5 Canvas API
+- **Deployment:** Lovable
