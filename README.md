@@ -1,28 +1,29 @@
-# Hacker House Goa 2026 - Frame & Builder ID Generator 🚀
+# Welcome to your Lovable project
 
-An official-grade web tool built for the **Hacker House Goa 2026** Task #1 selection process. Allows builders to generate custom profile overlays and digital builder badges in seconds with zero login required.
+This project was built with [Lovable](https://lovable.dev).
 
-Live App: [hh-goa-idgen.lovable.app](https://github.com/cbjtalks-gif/hh-goa-frame-id-generator)
+## Build with Lovable
 
----
+Open your project in the [Lovable editor](https://lovable.dev) and keep building.
 
-## ✨ Features
-- **Dual Output Formats:**
-  - **PFP Frame / Overlay:** Square profile picture frame with official HH Goa 2026 branding.
-  - **Builder ID Card:** Custom digital event badge with user details, auto-generated builder title, and dynamic badges.
-- **Real-time Canvas Controls:** Zoom, pan (X/Y), rotate, and re-center uploaded images seamlessly.
-- **Customization Options:**
-  - Multiple Card Themes (*Sunset Goa, Cyberpunk Emerald, Neon Midnight*).
-  - Dynamic Badges/Stickers (*AI Builder, Security Specialist, Open Source, etc.*).
-  - Optional Portfolio/GitHub URL input that generates a scannable QR code on the badge.
-- **Instant Sharing & Export:**
-  - High-Definition PNG export.
-  - Direct 1-click Twitter (X) sharing flow pre-filled with `#FrameInGoa` and `@247PMSTUDIO`.
+- **Ship faster**: describe what you want to build and Lovable handles the code.
+- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
+- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
 
----
+## Development
 
-## 🛠️ Tech Stack
-- **Framework:** React.js / Vite
-- **Styling:** Tailwind CSS (Custom HH Goa retro-tropical theme)
-- **Image Processing:** HTML5 Canvas API
-- **Deployment:** Lovable / Vercel
+Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
+
+```sh
+git clone <this-repository-url>
+cd <repository-name>
+npm i
+npm run dev
+```
+
+## Built with
+
+- TanStack Start
+- TypeScript
+- React
+- Tailwind CSS
