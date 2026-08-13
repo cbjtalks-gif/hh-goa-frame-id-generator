@@ -2,7 +2,7 @@
 
 An official-grade web tool built for the **Hacker House Goa 2026** Task #1 selection process. Allows builders to generate custom profile overlays and digital builder badges in seconds with zero login required.
 
-Live App: [hh-goa-idgen.lovable.app](https://hh-goa-idgen.lovable.app)
+Live App: [hh-goa-idgen.lovable.app](https://github.com/cbjtalks-gif/hh-goa-frame-id-generator)
 
 ---
 
